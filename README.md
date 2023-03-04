@@ -1,4 +1,4 @@
-# **Anti Chat Clear**
+# **Anti Chat Clear [LabyMod 3]**
 > This Addon ensures you can see all messages in chat even if the chat is cleared.
 
 ### Installation
